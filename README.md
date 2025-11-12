@@ -18,6 +18,8 @@ The Ultimate S23 module aims to port features which are exclusive to newer devic
 ## List of features
 Please see [FEATURE-LIST.md](/FEATURE-LIST.md) for more information
 
+***
+
 > [!CAUTION]
 > This module is tested pretty extensively. If you do everything correctly, it should not fail. HOWEVER, CyberK or anyone involved with the Ultimate module does not take responsibility if anything goes wrong with your device.
 >
